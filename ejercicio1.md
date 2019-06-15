@@ -1,5 +1,3 @@
-
-
 #### Escenario 1 - Commiteando archivos
 
 **Paso 1 - Git Init**
@@ -16,6 +14,4 @@ Después de inicializar un repositorio, se crea un nuevo subdirectorio oculto ll
 
 **Solucion**
 
-'''
 > git init
-'''
