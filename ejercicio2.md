@@ -14,3 +14,7 @@ La salida de este comando se denomina "estado del árbol de trabajo".
 **ProTip**
 
 Todos los archivos están "sin seguimiento" por Git hasta que se indique lo contrario. Los detalles de cómo se trata en el siguiente paso.
+
+#### Solucion
+
+> git status
