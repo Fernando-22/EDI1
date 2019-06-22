@@ -19,4 +19,4 @@ A cada confirmación se le asigna un hash SHA-1 que le permite consultar la conf
 
 #### Solucion
 
-> git commit -m "<commitear mensaje>"
+> git commit -m "commitear mensaje"
